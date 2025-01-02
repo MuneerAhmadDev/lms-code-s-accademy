@@ -1,0 +1,18 @@
+<?php return array (
+  'filters' => 'Filter',
+  'new_page_lead' => 'Sie können einen neuen Filter erstellen.',
+  'edit_page_lead' => 'Sie können diesen Filter bearbeiten.',
+  'add_options' => 'Optionen hinzufügen',
+  'option' => 'Option',
+  'filter_option' => 'Filteroption',
+  'tags_list_page_title' => 'Filterliste',
+  'filter' => 'Etikett',
+  'create_field_title_placeholder' => 'Wählen Sie einen Titel.',
+  'filters_count' => 'Filter zählen',
+  'page_lists_lead' => 'Liste der Filter. Sie können jede Zeile bearbeiten oder löschen.',
+  'admin_filters' => 'Filter',
+  'admin_filters_list' => 'Filterliste',
+  'admin_filters_create' => 'Filter erstellen',
+  'admin_filters_edit' => 'Filter bearbeiten',
+  'admin_filters_delete' => 'Filter löschen',
+);

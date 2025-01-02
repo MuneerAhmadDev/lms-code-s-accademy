@@ -1,0 +1,16 @@
+<?php return array (
+  'discount_list_page_title' => 'Rabattliste',
+  'discount' => 'Rabatt',
+  'title' => 'Titel',
+  'tags_count' => 'Tags zählen',
+  'new_page_lead' => 'Sie können einen neuen Rabatt erstellen.',
+  'parent_name' => 'Name des Elternteils',
+  'select_parent_name' => 'Wählen Sie den Namen des Elternteils',
+  'discount_count' => 'Kategorien zählen',
+  'page_lists_lead' => 'Rabattliste. Sie können jede Zeile bearbeiten oder löschen.',
+  'sub_discount' => 'Sub-Rabatt',
+  'has_sub_discount' => 'Hat Sub-Rabatt',
+  'add_sub_discount' => 'Abo-Rabatt hinzufügen',
+  'add' => 'Hinzufügen',
+  'remove' => 'Entfernen',
+);
